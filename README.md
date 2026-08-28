@@ -1,1 +1,1 @@
-# GEN-AI_LAD
+# GEN-AI_LAB
